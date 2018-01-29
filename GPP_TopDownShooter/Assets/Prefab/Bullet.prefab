@@ -101,6 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 10
   speed: 12
+  spark: {fileID: 198018804974231408, guid: 3c7755f7cf38b174d960c28b89ca7d31, type: 2}
 --- !u!212 &212407064647552372
 SpriteRenderer:
   m_ObjectHideFlags: 1
